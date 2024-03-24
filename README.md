@@ -1,6 +1,6 @@
 # Food Ordering App
 
-A very simple Java application Imitating a food ordering system
+A very simple Java application Imitating a food ordering system using JFrame
 
 ## Installation
 
